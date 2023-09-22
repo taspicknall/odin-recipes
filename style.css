@@ -1,4 +1,9 @@
 img {
     height: auto;
-    width: 200px;
+    width: 450px;
+}
+
+h1 {
+    color: blue;
+    border: 4px blue
 }
