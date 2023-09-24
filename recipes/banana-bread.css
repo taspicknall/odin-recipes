@@ -23,6 +23,11 @@ img {
     border-width: 5px;
    }
 
-button {
-    background-color: rgb(46, 46, 82);
+   button {
+    background-color: rgb(64, 64, 97);
+    color: aliceblue;
+    border-radius: 5px;
+    font-size: large;
+    margin: 40px;
+    margin-left: 200px;
    }
