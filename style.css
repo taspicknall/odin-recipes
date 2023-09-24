@@ -21,5 +21,11 @@ img {
     border-radius: 5px;
     border-color: rgb(130, 165, 241);
     border-width: 5px;
-   
 }
+
+button {
+    background-color: rgb(64, 64, 97);
+    color: aliceblue;
+    border-radius: 5px;
+    font-size: large;
+   }
